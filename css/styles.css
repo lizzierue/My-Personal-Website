@@ -1,0 +1,96 @@
+a{
+    color: #11999E;
+}
+
+
+
+body{
+    margin:0;
+    text-align: center;
+    font-family:'Merriweather', serif;
+}
+
+.chilli-img{
+
+    width: 25%;
+
+
+}
+
+.web-img{
+    width: 25%;
+}
+
+h1{
+   
+    
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+    
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+.top-container{
+
+  background-color: #defcf9;
+  position: relative;
+  padding-top: 100px;
+}  
+
+.middle-container{
+
+    
+}
+
+.bottom-container{
+
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.pro {
+
+text-decoration: underline;
+
+ }
+
+ .profile{
+
+
+    width: 60%;
+    margin:100px auto 100px auto;
+ }
+
+.skill-row{
+
+width: 100%;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px
+
+}
